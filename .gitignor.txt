@@ -1,2 +1,2 @@
 error.log.txt
-error.log
+error.log.
